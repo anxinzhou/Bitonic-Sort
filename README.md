@@ -1,1 +1,1 @@
-A easy to understand bitonic_sort implementation
+A simple implementation of bitonic sort 
